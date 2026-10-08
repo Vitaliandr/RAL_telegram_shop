@@ -99,6 +99,6 @@ Python 3.14, aiogram 3, FastAPI + uvicorn, SQLAlchemy 2 (async) и SQLite в р�
 
 ![Категории](assets/admin-categories.gif)
 
-## Что не доделал
+## Планы
 
 В будущем переход на PostgreSQL, если нагрузка вырастет.
